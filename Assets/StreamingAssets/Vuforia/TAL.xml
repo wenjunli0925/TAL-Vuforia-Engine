@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="CerealBox.Right" size="0.080000 0.294177"/>
+        <ImageTarget name="CerealBox.Front" size="0.210000 0.294948"/>
+        <ImageTarget name="CerealBox.Back" size="0.210000 0.294948"/>
+        <ImageTarget name="CerealBox.Bottom" size="0.210000 0.080040"/>
+        <ImageTarget name="CerealBox.Top" size="0.210000 0.080040"/>
+        <ImageTarget name="CerealBox.Left" size="0.080000 0.294799"/>
+        <MultiTarget name="CerealBox">
+            <Part name="CerealBox.Left" translation="-0.10499999672174454 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="CerealBox.Right" translation="0.10499999672174454 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="CerealBox.Front" translation="0 0 0.03999999910593033" rotation="AD: 1 0 0 0"/>
+            <Part name="CerealBox.Back" translation="0 0 -0.03999999910593033" rotation="AD: 0 1 0 180"/>
+            <Part name="CerealBox.Top" translation="0 0.14749999344348907 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="CerealBox.Bottom" translation="0 -0.14749999344348907 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

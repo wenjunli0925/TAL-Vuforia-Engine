@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sphere_PT_01.unity
+    guid: 974c57cd51f6f4b84bb2da5c8f45c9c0
+  - enabled: 0
+    path: Assets/Scenes/Speaker_PT_01.unity
+    guid: ec49234017fbb496480fd2363301b560
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5e7b76f1065174630afa94c78059586a, type: 2}
